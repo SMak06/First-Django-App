@@ -1,0 +1,10 @@
+superuser
+
+name = sahil
+email = blade.sahil@gmail.com	
+password = makwane1
+
+from django.conf.urls import url, include
+
+ # url(r'^admin/', admin.site.urls),
+    # url(r'^posts/', include('posts.urls'))
